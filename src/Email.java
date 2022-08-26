@@ -12,14 +12,6 @@ public class Email {
         this.tipo = tipo;
     }
 
-    public Formato getTipo() {
-        return tipo;
-    }
-
-    public void setTipo(Formato tipo) {
-        this.tipo = tipo;
-    }
-
     public String getTitulo() {
         return titulo;
     }
